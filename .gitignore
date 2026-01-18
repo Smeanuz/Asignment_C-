@@ -1,0 +1,17 @@
+# Executable files
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Compiled files
+*.out
+*.app
+
+# Debug files
+*.pdb
+*.ilk
+
+# VS Code
+.vscode/
